@@ -1,7 +1,6 @@
 def my_hash
   hash = {"King" => "Bran", "Queen" => "Sansa", "Hand" => "Tyrion"}
 
-  
 end
 
 
